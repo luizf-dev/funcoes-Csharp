@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/home/luizf-dev/.nuget/packages/": {}
+    "C:\\Users\\luiz.fvidal\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/luizf-dev/Downloads/funcoes/main.csproj",
+      "projectUniqueName": "C:\\xampp\\htdocs\\codigos-faculdade\\funcoes\\main.csproj",
       "projectName": "main",
-      "projectPath": "/home/luizf-dev/Downloads/funcoes/main.csproj",
-      "packagesPath": "/home/luizf-dev/.nuget/packages/",
-      "outputPath": "/home/luizf-dev/Downloads/funcoes/obj/",
+      "projectPath": "C:\\xampp\\htdocs\\codigos-faculdade\\funcoes\\main.csproj",
+      "packagesPath": "C:\\Users\\luiz.fvidal\\.nuget\\packages\\",
+      "outputPath": "C:\\xampp\\htdocs\\codigos-faculdade\\funcoes\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/luizf-dev/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\luiz.fvidal\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

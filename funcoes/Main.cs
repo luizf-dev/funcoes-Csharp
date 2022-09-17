@@ -1,9 +1,11 @@
 using System;
 
-class Program
+namespace funcoes{
+    class Program
 {
     public static void Main(string[] args)
     {
+        
 
         //Chamando a função Bem-Vindo!!
         BemVindo();
@@ -11,7 +13,6 @@ class Program
         //Chamando a função soma
         int soma1 = Soma(3, 4);
         Console.WriteLine("Soma 1 = " + soma1);
-
 
         //Chamando a função comparação
         Console.Write("Digite o primeiro numero: ");
@@ -44,7 +45,6 @@ class Program
     {
         int resultado = n1 + n2;
         return resultado;
-
     }
 
     //declarando a função de comparação
@@ -72,4 +72,5 @@ class Program
 
         return s;
     }
+}
 }
